@@ -1,0 +1,8 @@
+{
+    "name": "oloiolo/mytheme-theme",
+    "type": "october-theme",
+    "description": "some description",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
